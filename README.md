@@ -1,9 +1,9 @@
-﻿<div align="center">
+<div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=180&section=header&text=Md%20Mostofa%20Rahman%20Tuhin&fontSize=40&fontAlignY=36&desc=Full%20Stack%20Web%20Developer%20%7C%20Next.js%20%26%20TypeScript&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <a href="https://github.com/tuhin-2006">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Tuhin+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;Crafting+Modern+Web+Experiences;Next.js+%2B+TypeScript+%2B+Node.js;Always+Learning+%26+Building+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Tuhin+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;Next.js+%2B+TypeScript+%2B+Node.js;Building+Scalable+Modern+Apps;Always+Learning+%26+Growing+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -19,24 +19,33 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me & My Journey
 
 `javascript
 const tuhin = {
   name: "Md Mostofa Rahman Tuhin",
   role: "Full Stack Web Developer",
   location: "Bangladesh 🇧🇩",
-  passion: ["Modern UI/UX", "Scalable Web Architectures", "Clean Code"],
-  currentFocus: ["Next.js App Router", "Full Stack TypeScript", "Golang Backends"],
-  hobbies: ["Exploring Tech", "Problem Solving", "Learning Continuously"]
+  whatIDo: "Crafting modern, responsive & full-stack web applications",
+  experience: ["Next.js (App Router)", "TypeScript", "React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
+  passionateAbout: ["Scalable Architectures", "High-performance Backends (Go)", "Intuitive UI/UX"],
+  eagerTo: ["Collaborate on real-world products", "Solve challenging problems", "Learn cloud-native systems"]
 };
 `
 
-- 🔭 **Currently Building:** [StudioSpace](https://github.com/tuhin-2006/StudioSpace-Client) & [Bazar Dor](https://github.com/tuhin-2006/bazar-dor)
-- 🌱 **Learning & Exploring:** Advanced Backend Architecture, Cloud & Go Microservices
-- 💡 **Core Expertise:** Responsive Frontend (React / Next.js) & RESTful Backend APIs (Node.js / Express / TypeScript)
-- 💬 **Ask Me About:** JavaScript, TypeScript, React, Next.js, Node.js, Git & Web Performance
-- 📫 **Contact Me:** [mdmostofarahmantuhin2001@gmail.com](mailto:mdmostofarahmantuhin2001@gmail.com)
+#### 📌 আমি কি করি (What I Do):
+- আমি একজন **Full Stack Web Developer** — আধুনিক, রেসপনসিভ এবং ইউজার-ফ্রেন্ডলি ওয়েব অ্যাপ্লিকেশন তৈরি করি।
+- ফ্রন্টএন্ড থেকে শুরু করে ব্যাকএন্ড API এবং ডাটাবেজ ইন্টিগ্রেশন পর্যন্ত পুরো ফ্লো হ্যান্ডেল করি।
+
+#### 💡 আমার অভিজ্ঞতা ও দক্ষতা (Skills & Experience):
+- **Frontend:** Next.js (App Router), React.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3
+- **Backend & Database:** Node.js, Express.js, MongoDB, Mongoose, RESTful APIs, JWT Authentication
+- **Tools & Ecosystem:** Git, GitHub, VS Code, Postman, Vite, Vercel
+
+#### 🎯 আমি কি করতে আগ্রহী (Interests & Aspirations):
+- **High-Performance Backends:** Go (Golang) এবং মাইক্রোসার্ভিস আর্কিটেকচার নিয়ে কাজ করতে আগ্রহী।
+- **Real-World Impact:** চ্যালেঞ্জিং রিয়েল-ওয়ার্ল্ড প্রজেক্ট এবং স্কেলেবল সিস্টেম ডেভেলপমেন্টে অবদান রাখতে উৎসাহী।
+- **Collaboration & Open Source:** টিমওয়ার্ক ও ওপেন সোর্স প্রজেক্টে যুক্ত হয়ে নতুন কিছু শেখা ও ডেলিভার করা।
 
 ---
 
