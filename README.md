@@ -126,6 +126,11 @@ A curated showcase of applications and architectures I have designed and enginee
   </a>
 </div>
 
+<div align="center">
+  <br/>
+  <img src="https://raw.githubusercontent.com/tuhin-2006/tuhin-2006/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" width="100%" />
+</div>
+
 ---
 
 ### 🤝 Connect & Collaborate
