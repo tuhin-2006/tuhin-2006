@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=180&section=header&text=Md%20Mostofa%20Rahman%20Tuhin&fontSize=40&fontAlignY=36&desc=Full%20Stack%20Web%20Developer%20%7C%20Next.js%20%26%20TypeScript&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=180&section=header&text=Md%20Mostofa%20Rahman%20Tuhin&fontSize=38&fontAlignY=36&desc=Full%20Stack%20Developer%20(Backend%20Focused)%20%7C%20APIs%2C%20Databases%20%26%20DevOps&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <a href="https://github.com/tuhin-2006">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Tuhin+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;Next.js+%2B+TypeScript+%2B+Node.js;Building+Scalable+Modern+Apps;Always+Learning+%26+Growing+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+(Backend-Focused)+%F0%9F%9A%80;Node.js+%2B+TypeScript+%2B+Go+%2B+Next.js;Databases%3A+MongoDB%2C+PostgreSQL%2C+Redis;DevOps%2C+Docker+%26+Cloud+Deployments;Architecting+Scalable+Modern+Systems+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -19,59 +19,75 @@
 
 ---
 
-### 👨‍💻 About Me & My Journey
+### 👨‍💻 About Me & Engineering Focus
 
 `javascript
 const tuhin = {
   name: "Md Mostofa Rahman Tuhin",
-  role: "Full Stack Web Developer",
+  role: "Full Stack Developer (Backend Focused)",
   location: "Bangladesh 🇧🇩",
-  whatIDo: "Crafting modern, responsive & full-stack web applications",
-  experience: ["Next.js (App Router)", "TypeScript", "React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
-  passionateAbout: ["Scalable Architectures", "High-performance Backends (Go)", "Intuitive UI/UX"],
-  eagerTo: ["Collaborate on real-world products", "Solve challenging problems", "Learn cloud-native systems"]
+  specialization: "Robust Backend APIs, Scalable Systems & Modern Web Apps",
+  backendAndLanguages: ["Node.js", "Express.js", "Go (Golang)", "TypeScript", "JavaScript"],
+  databases: ["MongoDB", "PostgreSQL", "Mongoose", "Prisma"],
+  devopsAndCloud: ["Docker", "Linux", "CI/CD", "Vercel", "Git/GitHub"],
+  frontend: ["Next.js (App Router)", "React.js", "Tailwind CSS"],
+  eagerTo: ["Architect distributed & microservice backends", "Deep-dive into DevOps pipelines", "Build high-throughput systems"]
 };
 `
 
 #### 📌 আমি কি করি (What I Do):
-- আমি একজন **Full Stack Web Developer** — আধুনিক, রেসপনসিভ এবং ইউজার-ফ্রেন্ডলি ওয়েব অ্যাপ্লিকেশন তৈরি করি।
-- ফ্রন্টএন্ড থেকে শুরু করে ব্যাকএন্ড API এবং ডাটাবেজ ইন্টিগ্রেশন পর্যন্ত পুরো ফ্লো হ্যান্ডেল করি।
+- **Full Stack Developer (Backend-Focused):** হাই-পারফরম্যান্স ও স্কেলেবল ব্যাকএন্ড সিস্টেম, সিকিউর RESTful APIs এবং মডার্ন ফুল-স্ট্যাক ওয়েব অ্যাপ্লিকেশন আর্কিটেক্ট ও ডেভেলপ করি।
+- ডাটাবেজ মডেলিং, কুয়েরি অপটিমাইজেশন, এপিআই সিকিউরিটি এবং ডেভলপমেন্ট থেকে প্রোডাকশন ডেপ্লয়মেন্টের পুরো পাইপলাইন ম্যানেজ করি।
 
-#### 💡 আমার অভিজ্ঞতা ও দক্ষতা (Skills & Experience):
-- **Frontend:** Next.js (App Router), React.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3
-- **Backend & Database:** Node.js, Express.js, MongoDB, Mongoose, RESTful APIs, JWT Authentication
-- **Tools & Ecosystem:** Git, GitHub, VS Code, Postman, Vite, Vercel
+#### 💡 আমার অভিজ্ঞতা ও দক্ষতা (Experience & Stack):
+- **⚙️ Backend & Systems:** Node.js, Express.js, TypeScript, Go (Golang), REST APIs, JWT Auth, MVC & Clean Architecture
+- **🗄️ Databases:** MongoDB, PostgreSQL, Mongoose, Prisma ORM, Database Schema Design & Optimization
+- **☁️ DevOps & Cloud:** Docker, Linux environment, CI/CD Basics, Vercel, Nginx, Environment Configuration
+- **🌐 Frontend:** Next.js (App Router), React.js, Tailwind CSS, Responsive UI Design
 
 #### 🎯 আমি কি করতে আগ্রহী (Interests & Aspirations):
-- **High-Performance Backends:** Go (Golang) এবং মাইক্রোসার্ভিস আর্কিটেকচার নিয়ে কাজ করতে আগ্রহী।
-- **Real-World Impact:** চ্যালেঞ্জিং রিয়েল-ওয়ার্ল্ড প্রজেক্ট এবং স্কেলেবল সিস্টেম ডেভেলপমেন্টে অবদান রাখতে উৎসাহী।
-- **Collaboration & Open Source:** টিমওয়ার্ক ও ওপেন সোর্স প্রজেক্টে যুক্ত হয়ে নতুন কিছু শেখা ও ডেলিভার করা।
+- **Scalable Architecture & Microservices:** ডিস্ট্রিবিউটেড ব্যাকএন্ড, ইভেন্ট-ড্রিভেন আর্কিটেকচার এবং Go মাইক্রোসার্ভিস নিয়ে কাজ করতে আগ্রহী।
+- **DevOps & Cloud-Native:** Docker কন্টেইনারাইজেশন, কুবারনেটিস এবং অটোমেটেড CI/CD পাইপলাইনে গভীর দক্ষতা অর্জন।
+- **High-Impact Engineering:** জটিল সমস্যা সমাধান এবং বড় স্কেলের প্রোডাকশন সিস্টেমে ব্যাকএন্ড ইঞ্জিনিয়ার হিসেবে অবদান রাখা।
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
-#### 🌐 Languages & Frontend
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-#### ⚙️ Backend, Database & Cloud
+#### ⚙️ Backend & Systems
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+#### 🗄️ Databases & ORMs
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
+
+#### ☁️ DevOps & Deployment
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
+
+#### 🌐 Frontend & UI
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 #### 🧰 Tools & Version Control
@@ -81,7 +97,6 @@ const tuhin = {
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
 </div>
@@ -90,13 +105,13 @@ const tuhin = {
 
 ### 🚀 Featured Repositories
 
-| Repository | Description | Tech Stack |
+| Repository | Focus | Tech Stack |
 | :--- | :--- | :--- |
-| 🎨 **[StudioSpace](https://github.com/tuhin-2006/StudioSpace-Client)** | Full-stack modern web application with client & server architecture | Next.js, TypeScript, Tailwind |
-| 🛒 **[bazar-dor](https://github.com/tuhin-2006/bazar-dor)** | Daily commodity and market price tracking platform | Next.js, TypeScript, Full Stack |
-| 🏋️ **[Fit-Log-06](https://github.com/tuhin-2006/Fit-Log-06)** | Modern workout & fitness activity tracking application | Next.js, TypeScript, React |
-| ⚡ **[react-ts-go](https://github.com/tuhin-2006/react-ts-go)** | Full-stack project combining React frontend with high-speed Go backend | React, TypeScript, Golang |
-| ✨ **[my-portfolio](https://github.com/tuhin-2006/my-portfolio)** | Personal developer portfolio highlighting skills, experience & works | TypeScript, React, Next.js |
+| 🚀 **[StudioSpace-Server](https://github.com/tuhin-2006/StudioSpace-Server)** | Backend API Architecture, Auth & Controllers | Node.js, Express, TypeScript, REST |
+| 🎨 **[StudioSpace-Client](https://github.com/tuhin-2006/StudioSpace-Client)** | Full-stack Frontend Client & UI | Next.js, TypeScript, Tailwind |
+| 🛒 **[bazar-dor](https://github.com/tuhin-2006/bazar-dor)** | Full-Stack Market Tracking Application | Next.js, TypeScript, Full Stack |
+| ⚡ **[react-ts-go](https://github.com/tuhin-2006/react-ts-go)** | High-Speed Go Backend + React Frontend | Go (Golang), React, TypeScript |
+| 🏋️ **[Fit-Log-06](https://github.com/tuhin-2006/Fit-Log-06)** | Activity Tracking & Full-stack Architecture | Next.js, TypeScript, React |
 
 ---
 
