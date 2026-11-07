@@ -1,15 +1,15 @@
-﻿<div align="center">
+<div align="center">
 
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=220&section=header&text=Md.%20Mostofa%20Rahman%20Tuhin&fontSize=40&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Backend-Focused%20Architect&descAlignY=58&descAlign=50&animation=twinkling" width="100%" alt="Md Mostofa Rahman Tuhin Banner" />
 
   <!-- Dynamic Typing SVG -->
-  <a href="https://github.com/tuhin-2006">
+  <a href="https://tuhin-portfolio-pearl.vercel.app">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer+(Backend+Focused);Next.js+%7C+TypeScript+%7C+Node.js+%7C+Express;Databases%3A+MongoDB+%7C+PostgreSQL+%7C+Redis;DevOps%2C+Docker+%26+Cloud+Infrastructure;Architecting+Clean%2C+Scalable+Production+Systems;Crafting+High-Performance+APIs+%26+Microservices" alt="Typing Header" />
   </a>
 
   <p align="center">
-    <a href="https://github.com/tuhin-2006/my-portfolio"><img src="https://img.shields.io/badge/Portfolio-my--portfolio-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://tuhin-portfolio-pearl.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Portfolio-tuhin--portfolio-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" /></a>
     <a href="mailto:mdmostofarahmantuhin2001@gmail.com"><img src="https://img.shields.io/badge/Email-mdmostofarahmantuhin2001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/tuhin-2006"><img src="https://img.shields.io/badge/GitHub-tuhin--2006-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Location-Bangladesh%20🇧🇩-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
@@ -40,13 +40,13 @@ I am a passionate **Full Stack Software Engineer** specializing in **Backend Arc
 
 A curated showcase of applications and architectures I have designed and engineered:
 
-| Project | Description | Tech Stack | Source Code |
-| :--- | :--- | :--- | :---: |
-| 🎨 **StudioSpace (Full Stack)** | Modern workspace platform engineered with separated client-server architecture, secure RESTful APIs, and responsive design. | Next.js TypeScript Node.js Express Tailwind | [**Client**](https://github.com/tuhin-2006/StudioSpace-Client) • [**Server**](https://github.com/tuhin-2006/StudioSpace-Server) |
-| 🛒 **Bazar Dor** | Daily commodity and market price tracking platform designed for fast responsiveness, real-time insights, and clean data representation. | Next.js TypeScript Tailwind CSS Full Stack | [**GitHub**](https://github.com/tuhin-2006/bazar-dor) |
-| 🏋️ **Fit-Log-06** | Activity and workout tracking application featuring clean UI, workout logs, and performant state management. | Next.js TypeScript React Tailwind CSS | [**GitHub**](https://github.com/tuhin-2006/Fit-Log-06) |
-| ⚡ **React-TS-Go** | High-performance full-stack system demonstrating seamless communication between a React frontend and a fast Go backend. | Go (Golang) React TypeScript Vite | [**GitHub**](https://github.com/tuhin-2006/react-ts-go) |
-| ✨ **Developer Portfolio** | Personal developer portfolio highlighting skills, featured projects, and engineering journey. | Next.js TypeScript React Tailwind | [**GitHub**](https://github.com/tuhin-2006/my-portfolio) |
+| Project | Description | Tech Stack | Live Demo | Source Code |
+| :--- | :--- | :--- | :---: | :---: |
+| 🎨 **StudioSpace** | Modern workspace platform engineered with separated client-server architecture, secure RESTful APIs, and responsive design. | Next.js TypeScript Node.js Express Tailwind | *In Progress* | [**Client**](https://github.com/tuhin-2006/StudioSpace-Client) • [**Server**](https://github.com/tuhin-2006/StudioSpace-Server) |
+| 🛒 **Bazar Dor** | Daily commodity and market price tracking platform designed for fast responsiveness, real-time insights, and clean data representation. | Next.js TypeScript Tailwind CSS Full Stack | [**Live App**](https://bazar-dor-pro-two.vercel.app) | [**GitHub**](https://github.com/tuhin-2006/bazar-dor) |
+| 🏋️ **Fit-Log-06** | Activity and workout tracking application featuring clean UI, workout logs, and performant state management. | Next.js TypeScript React Tailwind CSS | [**Live App**](https://fit-log-06.vercel.app) | [**GitHub**](https://github.com/tuhin-2006/Fit-Log-06) |
+| ⚡ **React-TS-Go** | High-performance full-stack system demonstrating seamless communication between a React frontend and a fast Go backend. | Go (Golang) React TypeScript Vite | [**Live App**](https://react-ts-on-the-go-puce.vercel.app) | [**GitHub**](https://github.com/tuhin-2006/react-ts-go) |
+| ✨ **Developer Portfolio** | Personal developer portfolio highlighting skills, featured projects, and engineering journey. | Next.js TypeScript React Tailwind | [**Live App**](https://tuhin-portfolio-pearl.vercel.app) | [**GitHub**](https://github.com/tuhin-2006/my-portfolio) |
 
 ---
 
@@ -136,11 +136,11 @@ I am always open to discussing new opportunities, high-impact engineering projec
   <a href="mailto:mdmostofarahmantuhin2001@gmail.com">
     <img src="https://img.shields.io/badge/Direct_Email-mdmostofarahmantuhin2001@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://tuhin-portfolio-pearl.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-tuhin--portfolio-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+  </a>
   <a href="https://github.com/tuhin-2006">
     <img src="https://img.shields.io/badge/GitHub_Profile-tuhin--2006-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/tuhin-2006/my-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio_Repository-my--portfolio-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 
   <br/><br/>
