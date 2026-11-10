@@ -3,6 +3,9 @@
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=220&section=header&text=Md.%20Mostofa%20Rahman%20Tuhin&fontSize=40&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Backend-Focused%20Architect&descAlignY=58&descAlign=50&animation=twinkling" width="100%" alt="Md Mostofa Rahman Tuhin Banner" />
 
+  <h1>Hi 👋, I'm Md. Mostofa Rahman Tuhin</h1>
+  <h3>Full Stack Software Engineer (Backend-Focused Architect)</h3>
+
   <!-- Dynamic Typing SVG -->
   <a href="https://tuhin-portfolio-pearl.vercel.app">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer+(Backend+Focused);Next.js+%7C+TypeScript+%7C+Node.js+%7C+Express;Databases%3A+MongoDB+%7C+PostgreSQL+%7C+Redis;DevOps%2C+Docker+%26+Cloud+Infrastructure;Architecting+Clean%2C+Scalable+Production+Systems;Crafting+High-Performance+APIs+%26+Microservices" alt="Typing Header" />
@@ -10,9 +13,10 @@
 
   <p align="center">
     <a href="https://tuhin-portfolio-pearl.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Portfolio-tuhin--portfolio-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/mdmostofarahman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-mdmostofarahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdmostofarahmantuhin2001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Send_Email-Gmail_Compose-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email Directly" /></a>
     <a href="https://github.com/tuhin-2006"><img src="https://img.shields.io/badge/GitHub-tuhin--2006-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Location-Bangladesh%20🇧🇩-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
+    <img src="https://img.shields.io/badge/Location-Rangpur%2C_Bangladesh%20🇧🇩-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
   <p align="center">
@@ -27,9 +31,9 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Full Stack Software Engineer** specializing in **Backend Architecture, Database Engineering, and High-Performance Web Applications**. I focus on turning complex challenges into clean, elegant, and maintainable software solutions.
+I am **Md. Mostofa Rahman Tuhin**, a **Full Stack Software Engineer** specializing in **Backend Architecture, Database Engineering, and High-Performance Web Applications**. Based in **Rangpur, Bangladesh 🇧🇩**, I focus on turning complex challenges into clean, scalable, and maintainable software solutions.
 
-- ⚙️ **Core Engineering Focus:** Layered MVC / Clean Architecture, robust RESTful API design, secure authentication (JWT/RBAC), and high-throughput server backends.
+- ⚙️ **Core Engineering Focus:** Layered MVC / Clean Architecture, robust RESTful API design, secure authentication (JWT/RBAC, BetterAuth), and high-throughput server backends.
 - 🚀 **Active Builder:** Developed 20+ repositories spanning full-stack applications, client-server platforms, and real-time tools.
 - 🗄️ **Databases & DevOps:** Hands-on experience with SQL & NoSQL data modeling (MongoDB, PostgreSQL, Redis), containerization with Docker, and automated CI/CD deployments.
 - 🎯 **Current Focus:** Microservices architecture, distributed backend patterns in Go (Golang), and advanced Next.js full-stack systems.
@@ -42,12 +46,12 @@ A curated showcase of applications and architectures I have designed and enginee
 
 | Project | Description | Tech Stack | Live Demo | Source Code |
 | :--- | :--- | :--- | :---: | :---: |
-| 🎨 **StudioSpace** | Modern workspace platform engineered with separated client-server architecture, secure RESTful APIs, and responsive design. | Next.js TypeScript Node.js Express Tailwind | *In Progress* | [**Client**](https://github.com/tuhin-2006/StudioSpace-Client) • [**Server**](https://github.com/tuhin-2006/StudioSpace-Server) |
-| 🛒 **Bazar Dor** | Daily commodity and market price tracking platform designed for fast responsiveness, real-time insights, and clean data representation. | Next.js TypeScript Tailwind CSS Full Stack | [**Live App**](https://bazar-dor-pro-two.vercel.app) | [**GitHub**](https://github.com/tuhin-2006/bazar-dor) |
-| 🏋️ **Fit-Log-06** | Activity and workout tracking application featuring clean UI, workout logs, and performant state management. | Next.js TypeScript React Tailwind CSS | [**Live App**](https://fit-log-06.vercel.app) | [**GitHub**](https://github.com/tuhin-2006/Fit-Log-06) |
-| 💻 **Dev-Stack-05** | Developer stack workspace & utility tool designed for streamlined development workflows. | React TypeScript Vite Tailwind CSS | — | [**GitHub**](https://github.com/tuhin-2006/Dev-Stack-05) |
+| 🎨 **StudioSpace** | Peer-to-peer creative studio sharing platform with HTTPOnly JWT auth, double-booking prevention, wishlist, and PDF invoices. | Next.js TypeScript Node.js Express MongoDB | [**Live App**](https://client-mocha-theta-65.vercel.app) | [**Overview**](https://github.com/tuhin-2006/StudioSpace) • [**Client**](https://github.com/tuhin-2006/StudioSpace-Client) • [**Server**](https://github.com/tuhin-2006/StudioSpace-Server) |
+| 🛒 **Bazar Dor** | Bengali-first daily commodity & market price tracker with 12-market comparisons, top movers, and BetterAuth authentication. | Next.js TypeScript BetterAuth MongoDB Tailwind | [**Live App**](https://bazar-dor-pro-two.vercel.app) | [**GitHub**](https://github.com/tuhin-2006/bazar-dor) |
+| 🏋️ **Fit-Log-06** | Workout library and activity planning web application with exercise filtering, personal workout plans, and progress tracking. | Next.js TypeScript React Tailwind CSS | [**Live App**](https://fit-log-06.vercel.app) | [**GitHub**](https://github.com/tuhin-2006/Fit-Log-06) |
 | ⚡ **React-TS-Go** | High-performance full-stack system demonstrating seamless communication between a React frontend and a fast Go backend. | Go (Golang) React TypeScript Vite | [**Live App**](https://react-ts-on-the-go-puce.vercel.app) | [**GitHub**](https://github.com/tuhin-2006/react-ts-go) |
-| ✨ **Developer Portfolio** | Personal developer portfolio highlighting skills, featured projects, and engineering journey. | Next.js TypeScript React Tailwind | [**Live App**](https://tuhin-portfolio-pearl.vercel.app) | [**GitHub**](https://github.com/tuhin-2006/my-portfolio) |
+| 💻 **Dev-Stack-05** | Technology stack planner & workspace tool for exploring tech tools and organizing custom developer stacks. | React TypeScript Vite Tailwind CSS | — | [**GitHub**](https://github.com/tuhin-2006/Dev-Stack-05) |
+| ✨ **Developer Portfolio** | Personal developer portfolio highlighting skills, featured projects, and engineering journey. | Next.js TypeScript React Tailwind | [**Live App**](https://tuhin-portfolio-pearl.vercel.app) | *Private Repository* |
 
 ---
 
@@ -139,6 +143,9 @@ I am always open to discussing new opportunities, high-impact engineering projec
 
 <div align="center">
 
+  <a href="https://www.linkedin.com/in/mdmostofarahman/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdmostofarahmantuhin2001@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Direct_Gmail-Compose_Now-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Open Gmail Compose" />
   </a>
@@ -153,6 +160,6 @@ I am always open to discussing new opportunities, high-impact engineering projec
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=100&section=footer" width="100%" alt="Footer Banner" />
 
-  <sub>Crafted with passion & clean code by <b>Md. Mostofa Rahman Tuhin</b> • Bangladesh 🇧🇩</sub>
+  <sub>Crafted with passion & clean code by <b>Md. Mostofa Rahman Tuhin</b> • Rangpur, Bangladesh 🇧🇩</sub>
 
 </div>
